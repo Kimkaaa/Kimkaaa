@@ -6,9 +6,9 @@
 
 <div align="left">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://PORTFOLIO-URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://kimkaaa.github.io)
 [![Blog](https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kimkaaa)
-[![Email](https://img.shields.io/badge/Email-8492A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@gmail.com)
+[![Email](https://img.shields.io/badge/Email-8492A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimkaaa.dev@gmail.com)
 
 </div>
 
